@@ -5,13 +5,19 @@
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows11)
-[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
+[![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-35bfa4?style=flat-square&logo=manjaro&logoColor=ffffff)](https://manjaro.org/)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
+## 📫 How to reach me
+QQ    : 1062256455
 
-Contact me with QQ 1062256455
+Email : xiao-xjle@qq.com
 
-Email : xiao-xjle@outlook.com
+[![](https://komarev.com/ghpvc/?username=xjl12x&style=flat-square)](https://github.com/xjl12)
+
+
+![github contribution grid snake animation](https://github.com/xjl12/xjl12/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/xjl12/xjl12/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 **xjl12/xjl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
