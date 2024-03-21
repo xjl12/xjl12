@@ -9,7 +9,6 @@
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 ## 📫 How to reach me
-QQ    : 1062256455
 
 Email : xiao-xjle@qq.com
 
